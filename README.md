@@ -3,7 +3,7 @@ Author: Omer Shalom and Shai Bonfil.
 
 
 Our project has two main packages. The first implementing data structure of an directed weighted graph
-and operates a set of algorithms on the graph. The second part //game
+and operates a set of algorithms on the graph. The second part is a pokemon game.
 The first package built from four classes implementing 4 interfaces: 
 class NodeData - implements node_data interface.
 class EdgeData - implements edge_data interface.
